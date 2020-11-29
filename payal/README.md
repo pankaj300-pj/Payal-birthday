@@ -2,7 +2,7 @@
 ## Preview
 
 
-**[View Live Preview](https://github.com/pankaj300-pj/Payal-birthday.git)**
+**[View Live Preview](https://raw.githack.com/pankaj300-pj/Payal-birthday/main/index.htm)**
 
 
 
